@@ -1,0 +1,53 @@
+body{
+padding: 5px 200px ;
+
+}
+.leon{
+float: right;
+width: 45%;
+height: 10%;
+margin-right: 200px;
+margin-top: 10px;
+}
+div{
+border: 1px solid black;
+margin-right: 82%;
+
+}
+h1{
+text-align: center;
+font-size: 35px;
+}
+a{
+font-size: 25px;
+
+}
+h2{
+font-size: 30px;
+
+}
+p,ul{
+font-size: 22px;
+
+}
+.brock{
+padding-right: 10%;
+
+}
+.crow{
+float: right;
+
+}
+.shelly{
+width: 70%;
+
+}
+.y{
+width: 40%;
+float: right;
+padding-left: 10px;
+}
+.tyte{
+float: right;
+
+}
